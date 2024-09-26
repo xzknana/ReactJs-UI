@@ -11,8 +11,8 @@ const Testimoni = () => {
         <Container>
         <Row className='mb-5'>
           <Col>
-            <h1 className='text-center fw-bold'>Semua Testimoni</h1>
-            <p className='text-center'>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+            <h1 className='text-center fw-bold'>Member seventeen waras atau gila?</h1>
+            <p className='text-center'>jawabannya tergantung pandangan masing-masing</p>
           </Col>
         </Row>
         <Row className='row-cols-lg-3 row-cols-1'>
